@@ -1,0 +1,11 @@
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\obj\Debug\netcoreapp3.0\starter.csprojAssemblyReference.cache
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\obj\Debug\netcoreapp3.0\starter.AssemblyInfoInputs.cache
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\obj\Debug\netcoreapp3.0\starter.AssemblyInfo.cs
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\bin\Debug\netcoreapp3.0\starter.exe
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\bin\Debug\netcoreapp3.0\starter.deps.json
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\bin\Debug\netcoreapp3.0\starter.runtimeconfig.json
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\bin\Debug\netcoreapp3.0\starter.runtimeconfig.dev.json
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\bin\Debug\netcoreapp3.0\starter.dll
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\bin\Debug\netcoreapp3.0\starter.pdb
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\obj\Debug\netcoreapp3.0\starter.dll
+c:\Users\green\OneDrive\Desktop\myProject\HTML\projects\redwoodcode\CSharp\1-9\blackjack-starter\starter\obj\Debug\netcoreapp3.0\starter.pdb
